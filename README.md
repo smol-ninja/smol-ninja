@@ -3,6 +3,14 @@
 <p>
     <a href="https://twitter.com/sy100x" target="_blank"><img alt="Twitter"
         src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+    <a href="https://gitcoin.co/smol-ninja" target="_blank"><img alt="Gitcoin"
+        src="https://img.shields.io/badge/Gitcoin-00E2AC?style=for-the-badge"/></a>
+    <a href="https://t.me/sy100x" target="_blank"><img alt="Telegram"
+        src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+    <a href="https://discordapp.com/users/SY#5046" target="_blank"><img alt="Discord"
+        src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white"/></a>
+    <a href="https://arverse.gg/" target="_blank"><img alt="Arverse"
+        src="https://img.shields.io/badge/Stake%20your%20AVAX-8b5cf6?style=for-the-badge&logoColor=white"/></a>
 </p>
 
 ### About me 💯
@@ -26,9 +34,4 @@
 - [A Short History of Nearly Everything](https://www.goodreads.com/book/show/21.A_Short_History_of_Nearly_Everything)
 - [Masters of Doom](https://www.goodreads.com/book/show/222146.Masters_of_Doom)
 - [Why We Sleep](https://www.goodreads.com/book/show/34466963-why-we-sleep)
-
-### 🔎 Some stats
-
-![Pascal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=smol-ninja&count_private=true&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smol-ninja&layout=compact&langs_count=8&theme=tokyonight)
+- [Sapiens](https://www.goodreads.com/book/show/23692271-sapiens)
