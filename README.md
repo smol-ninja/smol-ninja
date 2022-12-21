@@ -17,9 +17,9 @@
 
 - 🔭 I'm currently working on few interesting problems related to web3.
 - 🔧 I am the founder of [Arverse](https://arverse.gg/) which is a PoS validator company.
-- 👨‍💻 I'm also a Product Consultant at [Electron Labs](https://electronlabs.org/) and [zkIBC](https://zkibc.com/) where I am working on zero-knowledge permissionless bridge between Cosmos and Ethereum.
+- 👨‍💻 I'm also a Consultant, Head of Product at [Electron Labs](https://electronlabs.org/) where I am building cross chain protocol using light clients and zero knowledge proofs.
 - ➕ Previously, I founded [Coindelta](https://web.archive.org/web/20180413171305/https://coindelta.com/), a leading cryptocurrency exchange in India. 
-- ➕ I also contributed to an NFT art project [VoV](https://www.v-o-v.io/) where I built an NFT marketplace for [Prof. Maurice Benayoun](https://www.scm.cityu.edu.hk/people/benayoun-maurice).
+- ➕ I also contributed to an NFT art project [VoV](https://vov.art/) where I built an NFT marketplace for [Prof. Maurice Benayoun](https://www.scm.cityu.edu.hk/people/benayoun-maurice).
 - 🎓 I hold a Bachelor's degree in Mechanical Engineering from [IIT Bombay](https://www.iitb.ac.in/).
 - ❤️ I'm very passionate about **Blockchains, Smart Contracts and Web3 in general** being involved into the space since 2016. It's a space I truly love and will keep contributing even if prices go down to zero.
 - 😇 Due to my long involvement, I am proud to call myself a Crypto OG.
@@ -28,7 +28,7 @@
 
 ### 📚 Books I've read
 
-- [The Wright Brothers](https://www.goodreads.com/book/show/22609391-the-wright-brothers)
+- [The Wright Brothers](https://www.goodreads.com/book/show/22609391-the-wright-brothers) - dsfvf
 - [Fermat's Enigma](https://www.goodreads.com/book/show/38412.Fermat_s_Enigma)
 - [Why the Dutch are Different](https://www.goodreads.com/book/show/25860139-why-the-dutch-are-different)
 - [A Short History of Nearly Everything](https://www.goodreads.com/book/show/21.A_Short_History_of_Nearly_Everything)
