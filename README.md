@@ -28,10 +28,4 @@
 
 ### 📚 Books I've read
 
-- [The Wright Brothers](https://www.goodreads.com/book/show/22609391-the-wright-brothers) - dsfvf
-- [Fermat's Enigma](https://www.goodreads.com/book/show/38412.Fermat_s_Enigma)
-- [Why the Dutch are Different](https://www.goodreads.com/book/show/25860139-why-the-dutch-are-different)
-- [A Short History of Nearly Everything](https://www.goodreads.com/book/show/21.A_Short_History_of_Nearly_Everything)
-- [Masters of Doom](https://www.goodreads.com/book/show/222146.Masters_of_Doom)
-- [Why We Sleep](https://www.goodreads.com/book/show/34466963-why-we-sleep)
-- [Sapiens](https://www.goodreads.com/book/show/23692271-sapiens)
+📘 [The Hard Thing About Hard Things - Ben Horowitz](https://www.goodreads.com/book/show/18176747-the-hard-thing-about-hard-things) 📘 [The Wright Brothers - David McCullough](https://www.goodreads.com/book/show/22609391-the-wright-brothers) 📘 [Fermat's Enigma - Simon Singh](https://www.goodreads.com/book/show/38412.Fermat_s_Enigma) 📘 [Why the Dutch are Different - Ben Coates](https://www.goodreads.com/book/show/25860139-why-the-dutch-are-different) 📘 [A Short History of Nearly Everything - Bill Bryson](https://www.goodreads.com/book/show/21.A_Short_History_of_Nearly_Everything) 📘 [Sapiens - Noah Harari](https://www.goodreads.com/book/show/23692271-sapiens) 📘 [The Richest Man in Babylon - George Clason](https://www.goodreads.com/book/show/1052.The_Richest_Man_in_Babylon) 📘 [Masters of Doom - David Kushner](https://www.goodreads.com/book/show/222146.Masters_of_Doom) 📘 [Why We Sleep - Matthew Walker](https://www.goodreads.com/book/show/34466963-why-we-sleep) 📘 [The Hitchhiker's Guide to the Galaxy - Douglas Adams](https://www.goodreads.com/book/show/386162.The_Hitchhiker_s_Guide_to_the_Galaxy) 📘 [Skin in the Game - Nassim](https://www.goodreads.com/book/show/36064445-skin-in-the-game)
