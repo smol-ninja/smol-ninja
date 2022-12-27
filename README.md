@@ -12,7 +12,7 @@
 </p>
 
 - I'm currently learning cryptography and zero-knowledge proofs.
-- Currently building [Beetroot](https://beetroot.ai/) which is a PoS validator company.
+- Building [Beetroot](https://beetroot.ai/) which is a PoS validator company.
 - Also advising (product) [Electron Labs](https://electronlabs.org/) on cross-chain protocol using light clients and zero knowledge proofs.
 - I'd love to collaborate on projects related to EVMs, Cross chains and zero-knowledge.
 
