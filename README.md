@@ -3,8 +3,6 @@
 <p>
     <a href="https://twitter.com/sy100x" target="_blank"><img alt="Twitter"
         src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-    <a href="https://gitcoin.co/smol-ninja" target="_blank"><img alt="Gitcoin"
-        src="https://img.shields.io/badge/Gitcoin-00E2AC?style=for-the-badge"/></a>
     <a href="https://t.me/sy100x" target="_blank"><img alt="Telegram"
         src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
     <a href="https://discordapp.com/users/SY#5046" target="_blank"><img alt="Discord"
